@@ -1,4 +1,4 @@
-# changelog
+# changelog skill
 
 A skill for agents that generates `CHANGELOG.md` entries from git history and cuts versioned releases following [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) conventions.
 
